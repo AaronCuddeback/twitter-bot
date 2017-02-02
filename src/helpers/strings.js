@@ -1,11 +1,11 @@
 module.exports = {
   queryString: [
     'freecodecamp',
-    '100daysofcode'
+    ''
     
   ],
   queryStringSubQuery: [
-    ''
+    '100daysofcode'
   ],
   blockedStrings: [
     'porn',

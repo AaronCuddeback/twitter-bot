@@ -1,7 +1,7 @@
 module.exports = {
   queryString: [
     'freecodecamp',
-    ''
+    
     
   ],
   queryStringSubQuery: [

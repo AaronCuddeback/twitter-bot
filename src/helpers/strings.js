@@ -1,6 +1,8 @@
 module.exports = {
   queryString: [
-    ''
+    'freecodecamp',
+    '100daysofcode'
+    
   ],
   queryStringSubQuery: [
     ''

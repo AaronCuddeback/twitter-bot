@@ -108,7 +108,7 @@ var favoriteTweet = function () {
   }
 
   // find the tweet
-  Twitter.get('100daysofcode', params, function (err, data) {
+  Twitter.get('search/tweets', params, function (err, data) {
 
     // find tweets
     var tweet = data.statuses

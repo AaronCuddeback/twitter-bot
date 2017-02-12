@@ -2,6 +2,8 @@ module.exports = {
   queryString: [
     'freecodecamp',
     '100daysofcode'
+    'programming'
+    'treehouse'
     
   ],
   queryStringSubQuery: [
@@ -17,13 +19,13 @@ module.exports = {
     'popular'
   ],
   responseString: [
-    'Hi @screenName thanks for the follow! !CR',
-    '@screenName thanks for following! !CR',
-    'Hey @screenName thanks for the follow! !CR',
-    'Thanks for following @screenName! !CR',
-    'Hey @screenName, thanks for following! !CR',
-    'Awesome @screenName, thanks for following! !CR',
-    'Thanks for the follow @screenName! !CR',
-    'Thanks for following @screenName! How are you today? !CR'
+    'Hi @screenName thanks for the follow! !AC',
+    '@screenName thanks for following! !AC',
+    'Hey @screenName thanks for the follow! !AC',
+    'Thanks for following @screenName! !AC',
+    'Hey @screenName, thanks for following! !AC',
+    'Awesome @screenName, thanks for following! !AC',
+    'Thanks for the follow @screenName! !AC',
+    'Thanks for following @screenName! How are you today? !AC'
   ]
 }

@@ -1,8 +1,8 @@
 module.exports = {
   queryString: [
     'freecodecamp',
-    '100daysofcode'
-    'programming'
+    '100daysofcode',
+    'programming',
     'treehouse'
     
   ],

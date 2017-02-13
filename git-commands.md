@@ -9,7 +9,7 @@ git push heroku master
 
 if errors:
 
-heroku ps:scale worker=0 
+heroku ps:scale worker=0
 heroku ps:scale worker=1
 
 check if its running:

@@ -5,7 +5,7 @@ module.exports = {
     'programming',
     'teamtreehouse',
     'javascript',
-    'codenewbie'
+    'CodeNewbie'
     
   ],
   queryStringSubQuery: [

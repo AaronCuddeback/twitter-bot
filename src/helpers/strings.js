@@ -3,8 +3,8 @@ module.exports = {
     'freecodecamp',
     '100daysofcode',
     'programming',
-    'teamtreehouse'
-    'javascriptgit'
+    'teamtreehouse',
+    'javascript'
     
   ],
   queryStringSubQuery: [

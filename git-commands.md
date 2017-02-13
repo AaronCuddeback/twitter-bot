@@ -4,6 +4,7 @@ These are to push update changes to git/heorku
 git init 
 heroku git:remote -a aaron-twitterbot
 git add .
+git commit -m 'add environment variables' 
 git push heroku master
 
 if errors:

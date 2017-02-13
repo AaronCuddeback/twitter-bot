@@ -4,7 +4,8 @@ module.exports = {
     '100daysofcode',
     'programming',
     'teamtreehouse',
-    'javascript'
+    'javascript',
+    'codenewbie'
     
   ],
   queryStringSubQuery: [

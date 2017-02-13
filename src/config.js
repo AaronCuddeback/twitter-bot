@@ -15,10 +15,10 @@
  };
 
  module.exports = {
-  consumer_key: '3BLyfr5KekhD8tHsjNDd9ovAY',
-  consumer_secret: '4ZP1GioRBZ9TDJRXHkqj8uaivBy0yTaWCAkAq6VJ7ljMCMf82S',
-  access_token: '310897418-oqPWKblYrVSay76uqwi8BERq1g7ExYBlnHo4rMYe',
-  access_token_secret: 'C8gwe4tSuMPkLyPugtqQjof78GVew0coudWxmnFlQOBJf',
+  consumer_key: 'Enter_Your_Consumer_Key',
+  consumer_secret: 'Enter_Your_Consumer_Secret',
+  access_token: 'Enter_Your_Access_Token',
+  access_token_secret: 'Enter_Your_Access_Token_Secret',
 };
 
 
